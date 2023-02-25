@@ -9,4 +9,7 @@
 /*.*.local
 /*.identcache
 /*.otares
+/*-lock.json
+/modules
+/Win32
 
